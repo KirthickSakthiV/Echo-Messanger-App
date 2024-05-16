@@ -1,4 +1,4 @@
-# ChatterBox
-[Live Demo](https://chatterbox-main.onrender.com/) to check out the app.
+# Echo-Messanger
+A User-Friendly Chat Application
 
 
